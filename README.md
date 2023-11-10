@@ -8,7 +8,7 @@ I'm a Software Engineer who currently works as a Frontend Web Developer Advocate
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript,Typescript, Reactjs, and Nextjs.
+- 🌱 I’m constantly a student of HTML, CSS, Tailwind, JavaScript,Typescript, Reactjs, Nextjs, Redux Toolkit and a lot more amazing technologies.
 - 😊 I’m looking for help with open source projects, hackathons, and Junior - Mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing davidchukwunwikeigbokwe@gmail.com
