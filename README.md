@@ -10,7 +10,7 @@ I'm a Software Engineer who currently works as a Mobile App Developer at [Aella 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m constantly a student of JavaScript, Typescript, Reactjs, Nextjs, Dart, Flutter and a lot more amazing technologies.
 - 😊 I’m looking for help with open source projects, hackathons, and Junior - Mid-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Mobile Engineer (Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, Mobile Engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing davidchukwunwikeigbokwe@gmail.com
 
 ---
